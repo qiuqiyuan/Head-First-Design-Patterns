@@ -1,0 +1,4 @@
+Parallel class structure. 
+NYStore / Chicago store are more of configuration files used to configure exactly what
+ingredientfactory to use to give back concrete objects. (This is why it needs to specify 
+factories as parameters at factory methods)
